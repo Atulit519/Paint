@@ -1,0 +1,20 @@
+.backgroundImg{
+    background-image: url("https://cdn.pizap.com/pizapfiles/images/photo_backgrounds_textures_app05.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#MyCanvas{
+    background-color: white;
+    border: 5px black solid;
+}
+
+h1{
+    font-weight: bold;
+}
+
+span, input{
+    margin: 10px;
+    font-size: 25px;
+    font-weight: "bold";
+}
